@@ -337,7 +337,7 @@ const translation = {
     visionSettings: {
       title: 'Görüş Ayarları',
       resolution: 'Çözünürlük',
-      resolutionTooltip: `Düşük çözünürlük, modelin görüntünün düşük çözünürlüklü 512 x 512 versiyonunu almasını sağlar ve görüntüyü 65 token bütçesiyle temsil eder. Bu, API'nin daha hızlı yanıtlar dönmesini ve daha az giriş tokeni tüketmesini sağlar ve bu yüksek detay gerektirmeyen kullanım durumları için uygundur.\nYüksek çözünürlük, modelin önce düşük çözünürlüklü görüntüyü görmesini sağlar ve ardından giriş görüntüsünün boyutuna göre 512 piksel kareler olarak detaylı kırpma işlemleri gerçekleştirir. Her bir detaylı kırpma işlemi toplamda 129 token bütçesi kullanır.`,
+      resolutionTooltip: 'Düşük çözünürlük, modelin görüntünün düşük çözünürlüklü 512 x 512 versiyonunu almasını sağlar ve görüntüyü 65 token bütçesiyle temsil eder. Bu, API\'nin daha hızlı yanıtlar dönmesini ve daha az giriş tokeni tüketmesini sağlar ve bu yüksek detay gerektirmeyen kullanım durumları için uygundur.\nYüksek çözünürlük, modelin önce düşük çözünürlüklü görüntüyü görmesini sağlar ve ardından giriş görüntüsünün boyutuna göre 512 piksel kareler olarak detaylı kırpma işlemleri gerçekleştirir. Her bir detaylı kırpma işlemi toplamda 129 token bütçesi kullanır.',
       high: 'Yüksek',
       low: 'Düşük',
       uploadMethod: 'Yükleme Yöntemi',
